@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.34829.251
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7D049A34-F7A8-47F4-AF65-57433FD83A7E}") = "Training", "Training\Training.tcmdproj", "{A0849B98-3DB0-4F80-ADF9-5B39DA472229}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {463EE74F-2D50-4887-8166-9621A37A3B15}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Name>TwinCAT Motion Designer</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{a0849b98-3db0-4f80-adf9-5b39da472229}</ProjectGuid>
+    <AssemblyName>Training</AssemblyName>
+    <RootNamespace>Training</RootNamespace>
+  </PropertyGroup>
+</Project>

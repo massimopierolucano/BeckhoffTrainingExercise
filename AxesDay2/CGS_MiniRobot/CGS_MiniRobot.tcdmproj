@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Name>Drive Manager 2</Name>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{90f5b936-4ec5-42c4-856d-a632bfd74cf1}</ProjectGuid>
+    <TcPath>
+    </TcPath>
+    <AssemblyName>CGS_MiniRobot</AssemblyName>
+    <RootNamespace>CGS_MiniRobot</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="Term 5 %28EL7037%29.tcdmdrv">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Term 7 %28AX8620-0000-0105%29.tcdmdrv">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Term 7 %28AX8620-0000-0105%29\Drive 8 %28AX8206-0210-0104%29.tcdmdrv">
+      <SubType>Content</SubType>
+      <DependentUpon>Term 7 (AX8620-0000-0105).tcdmdrv</DependentUpon>
+    </Content>
+  </ItemGroup>
+</Project>

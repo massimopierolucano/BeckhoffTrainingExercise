@@ -1,0 +1,12 @@
+"Order code"	"qty"	"Description"	"Note"	"Customer order code"	"Customer group"	"Customer comment"
+
+DC link: DC link 1
+##################
+
+Axis: Rotary axis 1
+-------------------
+AX8206-0210-0000	1	Twin Axis Module 2 x 6A, Multi-feedback, TwinSAFE (17 drive integrated safety functions)				
+AM8013-0DG0-0000	1	Servomotor, 230 V AC (max. 230 V AC), M0 = 0.52 Nm, I0 = 1.65 A, nn = 8000 min-1, Smooth shaft, OCT 24 bit singleturn, SIL 2, No brake				
+ZK4800-8002-0050	1	motor cable with 1 mm² wire gauge, fixed installation, Cable length l = 5 m	Cable length only in full meter			
+ZB8804-0004	1	Panel feed-through for itec pre-assembled				
+ZS4000-2100	1	metal flange for motor cable, iTec, M23 and feedback cable with iTec, to adjust the connector, including sealings				

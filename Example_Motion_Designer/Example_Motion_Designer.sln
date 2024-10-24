@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.34829.251
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7D049A34-F7A8-47F4-AF65-57433FD83A7E}") = "Example_Motion_Designer", "Example_Motion_Designer\Example_Motion_Designer.tcmdproj", "{2972762A-8087-4B0B-95A3-DD5B88BCE08F}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9FF4C15-6BC0-40DB-8BBE-A74AD5C5E15A}
+	EndGlobalSection
+EndGlobal
